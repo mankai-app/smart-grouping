@@ -20,8 +20,8 @@ Two model architectures are supported:
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/nohackjustnoobb/mankai-smart-grouping.git
-    cd mankai-smart-grouping
+    git clone https://github.com/mankai-app/smart-grouping.git
+    cd smart-grouping
     ```
 
 2.  Install dependencies:
